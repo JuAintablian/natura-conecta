@@ -5,8 +5,11 @@ Criamos o Natura Conecta, com ele a pessoa tem mais autonomia em relação a sua
 # Arquivos
 
 **Pitch:**  [Pitch](https://www.youtube.com/watch?v=xXgMLai4Gn4)
+
 **Topologia Eugenio:** [Arquivo](https://github.com/JuAintablian/natura-conecta/blob/master/Eugenio_Challenge.vsdx)
+
 **Video Demo:**  [Video Demo](https://www.youtube.com/watch?v=vh79vE5tm0Q)
+
 **Apresentação:** [Arquivo](https://github.com/JuAintablian/natura-conecta/blob/master/Pitch_Natura_Conecta.pdf)
 
 
